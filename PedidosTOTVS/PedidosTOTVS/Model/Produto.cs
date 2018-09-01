@@ -10,6 +10,5 @@ namespace PedidosTOTVS.Model
         public int ID { get; set; }
         public string Descricao { get; set; }
         public float ValorIndividual { get; set; }
-        public int Quantidade { get; set; }
     }
 }
